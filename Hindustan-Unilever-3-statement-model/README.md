@@ -17,6 +17,6 @@ Conducted an end-to-end financial analysis and valuation of Hindustan Unilever (
 3. **Cash Flow Dynamics:** Free Cash Flow generation more than doubled over the historical period, supporting continuous reinvestment and strong dividend payouts.
 
 ## 📂 Deliverables Included in this Repository
-* `HUL_Financial_Model.xlsx`: The raw, fully-linked financial model containing all projections, dynamic scenarios, and ratio calculations.
-* `HUL_Strategic_Report.pdf`: A 2-page investment memorandum detailing strategic outlook, competitive advantages, and final valuation thesis.
+* `HUL Financial Statement Model.xlsx`: The raw, fully-linked financial model containing all projections, dynamic scenarios, and ratio calculations.
+* `HUL Financial Statement Model Report.docx`: A 2-page investment memorandum detailing strategic outlook, competitive advantages, and final valuation thesis.
 
